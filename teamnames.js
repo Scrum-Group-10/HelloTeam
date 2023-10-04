@@ -1,2 +1,2 @@
 const teamNames = ["Cody", "John"];
-console.log(teamNames);
+teamNames.forEach(list => {console.log(list)});
